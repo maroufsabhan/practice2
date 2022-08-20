@@ -1,0 +1,18 @@
+h1{
+	font-size: 50px;
+}
+h1{
+	color: purple;
+}
+.heading_1{
+	background-color: paleturquoise;
+}
+#text1{
+	border: 5px; border: dashed green;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
